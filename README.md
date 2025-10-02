@@ -170,9 +170,7 @@ Start the development server to see your project live:
 ```bash
 npm run dev
 ```
-
-View the Project 🌐
-Open your browser and visit http://localhost:5173/ to see the result! 🎉
+  
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
