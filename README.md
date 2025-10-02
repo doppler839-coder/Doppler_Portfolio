@@ -128,8 +128,6 @@ The portfolio website consists of the following sections:
 You will need to download **Git** and **Node** to run this project.
 
 ### Git
-
-- Download and install Git from the official website: [Git Downloads](https://git-scm.com/)
 - Verify the installation:
   ```bash
   git --version
@@ -170,7 +168,7 @@ Start the development server to see your project live:
 ```bash
 npm run dev
 ```
-  
+
 
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
