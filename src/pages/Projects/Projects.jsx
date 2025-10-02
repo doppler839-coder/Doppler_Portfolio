@@ -11,7 +11,7 @@ const projects = [
     src: "tree.jpg",
     link: "src/assets/images/2.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
+    githubLink: "https://github.com/doppler839-coder/portfolio",
     liveLink: "https://codervai.vercel.app",
   },
   {
@@ -21,7 +21,7 @@ const projects = [
     src: "water.jpg",
     link: "src/assets/images/3.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
+    githubLink: "https://github.com/doppler839-coder/codewhisperer",
     liveLink: "https://codewhisperer.vercel.app/",
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     src: "house.jpg",
     link: "src/assets/images/4.png",
     color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
+    githubLink: "https://github.com/doppler839-coder/CodeKori",
     liveLink: "https://codekori.js.org",
   },
 ];
