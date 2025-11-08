@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.png";
+// import HeroImg from "@/assets/images/hero.png";
 import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
