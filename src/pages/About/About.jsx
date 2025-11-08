@@ -12,13 +12,13 @@ export default function About() {
           <div className="grid gap-6 sm:grid-cols-2 md:gap-12 lg:gap-24">
             <div className="relative mb-6 sm:mb-0">
               <div className="bg-linear-to-b aspect-76/59 relative rounded-2xl p-px from-zinc-300 to-transparent">
-                <img
+                {/* <img
                   src={HeroImg}
                   className="rounded-[15px] shadow block"
                   alt="payments illustration"
                   width={1207}
                   height={929}
-                />
+                /> */}
               </div>
             </div>
 
